@@ -3,4 +3,4 @@ bbb
 ccc @@
 ddd
 eee edit by newBranch
-fff
+fff edit by master
