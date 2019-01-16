@@ -2,5 +2,5 @@ aaa
 bbb
 ccc @@
 ddd
-eee
+eee edit by newBranch
 fff
