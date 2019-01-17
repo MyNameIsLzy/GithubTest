@@ -1,6 +1,6 @@
 aaa
 bbb
 ccc @@
-ddd 111
+ddd 111 edit by otherUser
 eee edit by newBranch
 fff edit by master
